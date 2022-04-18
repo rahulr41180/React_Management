@@ -1,0 +1,27 @@
+
+                                        app
+
+                        a                                   b
+
+            a                       b                  a                           b
+
+       a          b       a                 b   a               b           a               b
+
+app
+    first
+        a
+            a
+            b
+        b
+        c
+    second
+        a 
+        b
+            a
+            b
+        c
+
+
+"start": "BROWSER=none react-scripts start",
+
+React from top to bottom
